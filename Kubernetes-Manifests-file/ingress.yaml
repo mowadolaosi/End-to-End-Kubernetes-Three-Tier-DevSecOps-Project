@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: backend.mowadola.com
+    - host: www.mowadola.com
       http:
         paths:
           - path: /api
